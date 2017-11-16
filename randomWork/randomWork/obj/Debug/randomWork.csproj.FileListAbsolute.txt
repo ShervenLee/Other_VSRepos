@@ -1,0 +1,10 @@
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\bin\Debug\randomWork.exe.config
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\bin\Debug\randomWork.exe
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\bin\Debug\randomWork.pdb
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\obj\Debug\randomWork.csprojResolveAssemblyReference.cache
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\obj\Debug\randomWork.Form1.resources
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\obj\Debug\randomWork.Properties.Resources.resources
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\obj\Debug\randomWork.csproj.GenerateResource.Cache
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\obj\Debug\randomWork.csproj.CoreCompileInputs.cache
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\obj\Debug\randomWork.exe
+C:\Users\ShervenLee\source\repos\randomWork\randomWork\obj\Debug\randomWork.pdb

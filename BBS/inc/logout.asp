@@ -1,0 +1,9 @@
+<%
+session("user_num")=""
+session("user_name")=""
+session("user_id")=""
+session("admin_num")=""
+session("admin_id")=""
+response.Redirect("../")
+response.End()
+%>

@@ -1,0 +1,13 @@
+<%
+	session("admin_num")=""
+	'清空会员登录信息
+	session("user_num")=""
+	session("user_name")=""
+	session("user_id")=""
+%>
+<script>
+parent.window.location.href='../';
+</script>
+<%
+response.End()
+%>

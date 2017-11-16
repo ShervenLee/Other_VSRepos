@@ -1,0 +1,63 @@
+在线演示地址
+http://www.mlmzj.com/mlmzj/demo/qingeditor/
+
+
+
+
+QingEditor 是一套开源轻量级的在线HTML编辑器，主要用于让用户在网站上获得所见即所得编辑效果，开发人员可以用 QingEditor 把传统的多行文本输入框(textarea)替换为可视化的富文本输入框。 QingEditor 使用 JavaScript 编写，可以无缝地与 Java、.NET、PHP、ASP 等程序集成，比较适合在 CMS、商城、论坛、博客、Wiki、电子邮件等互联网应用上使用。 
+
+ 本人也是网站爱好者，经常在网上找好用的在线编辑器。 但是找到的，不是不兼容，就是太大，运行太卡。 所以综合了一下，自己开了一个最简单的在线编辑器，对于一些简单的文字编辑是足够使用了。 最主要是轻，相对百度编辑器那种动不动几十兆的程序来说。 最后希望大家能喜欢哦 
+
+
+
+
+小清编辑器Qing Editor使用方法 
+
+一 、下载小清编辑器Qing Editor。
+
+1、官方网站下载 : http://www.mlmzj.com/mlmzj/demo/qingeditor/qingeditor.rar 
+
+ 2、站长之家下载 : http://down.chinaz.com/soft/38264.htm 
+二 、在网页文件里添加代码。
+
+1、在<head></head>之间添加以下代码，路径自行修改。 
+
+
+
+<link rel="stylesheet" href="../inc/qingeditor/qingstyle.css" />
+ <script charset="utf-8" src="../inc/qingeditor/qingeditor-min.js"></script>
+ <script>var textarea_name='content';</script>
+ <script charset="utf-8" src="../inc/qingeditor/qingeditor-set.js"></script>
+
+ 2、在需要添加编辑器的textarea控件，加上name="content"(可在引用qingeditor-set.js文件前修改控件名称)。 
+
+
+<textarea name="content"></textarea> 
+
+ 3、一个标准的小清编辑器基础文档，引用的文件路径需自行设置好 
+
+
+
+<!doctype html>
+ <html>
+ <head>
+ <meta charset="gb2312">
+ <title>小清编辑器</title>
+
+<link rel="stylesheet" href="../inc/qingeditor/qingstyle.css" />
+ <script charset="utf-8" src="../inc/qingeditor/qingeditor-min.js"></script>
+ <script>var textarea_name='content';</script>
+ <script charset="utf-8" src="../inc/qingeditor/qingeditor-set.js"></script>
+
+
+ </head>
+ <body>
+
+
+ <form action="?" name="form1" method="post">
+ <textarea name="content"></textarea>
+ </form>
+
+
+ </body>
+ </html>

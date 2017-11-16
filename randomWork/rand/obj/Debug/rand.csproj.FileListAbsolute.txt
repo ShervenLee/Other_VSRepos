@@ -1,0 +1,10 @@
+C:\Users\ShervenLee\source\repos\randomWork\rand\obj\Debug\rand.csprojResolveAssemblyReference.cache
+C:\Users\ShervenLee\source\repos\randomWork\rand\obj\Debug\rand.Form1.resources
+C:\Users\ShervenLee\source\repos\randomWork\rand\obj\Debug\rand.Properties.Resources.resources
+C:\Users\ShervenLee\source\repos\randomWork\rand\obj\Debug\rand.csproj.GenerateResource.Cache
+C:\Users\ShervenLee\source\repos\randomWork\rand\obj\Debug\rand.csproj.CoreCompileInputs.cache
+C:\Users\ShervenLee\source\repos\randomWork\rand\bin\Debug\rand.exe.config
+C:\Users\ShervenLee\source\repos\randomWork\rand\bin\Debug\rand.exe
+C:\Users\ShervenLee\source\repos\randomWork\rand\bin\Debug\rand.pdb
+C:\Users\ShervenLee\source\repos\randomWork\rand\obj\Debug\rand.exe
+C:\Users\ShervenLee\source\repos\randomWork\rand\obj\Debug\rand.pdb
