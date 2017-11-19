@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Jokul_Forum_v1.5.5234.2_Ful
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "17252"
+		SlnRelativePath = "F:\BBS\Jokul_Forum_v1.5.5234.2_Full_Net35\"
 	EndProjectSection
 EndProject
 Global
